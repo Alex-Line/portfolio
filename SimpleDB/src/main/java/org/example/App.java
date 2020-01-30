@@ -28,7 +28,7 @@ public class App extends Application
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        URL url = new File("/Users/alex/Documents/SimpleDB/src/main/java/org/example/view/beginingPage.fxml").toURI().toURL();
+        URL url = new File("src/main/java/org/example/view/beginingPage.fxml").toURI().toURL();
         Parent root = FXMLLoader.load( url );
         primaryStage.setTitle( "Adding info into Library" );
         primaryStage.setScene( new Scene( root, 600, 400 ) );

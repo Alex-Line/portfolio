@@ -6,7 +6,37 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7594e61-c070-4454-8f56-c4382650f271" name="Default Changelist" comment="" />
+    <list default="true" id="e7594e61-c070-4454-8f56-c4382650f271" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SimpleDB_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SimpleDB_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SimpleDB_jar/SimpleDB.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimpleDB_jar/SimpleDB.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/AddingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/AddingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/BeginingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/BeginingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/ShowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/ShowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/database/ConsoleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/database/ConsoleReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/database/DBReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/database/DBReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/database/DBWritter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/database/DBWritter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/database/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/database/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/view/addingPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/view/addingPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/view/beginingPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/view/beginingPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/view/showPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/view/showPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SimpleDB.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/SimpleDB.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controllers/AddingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controllers/AddingController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,6 +62,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WwXht2uEkqlquYUU7vv7mEdMyd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -38,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,30 +144,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="258" y="112" width="1059" height="676" key="DBNavigator.ProjectSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580120092431" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1580401705294">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1580405446816">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580401705294" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1580401705292">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580405446816" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1580405446815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580401705292" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1580401705292">
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580405446815" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1580405446814">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580401705292" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1580401705293">
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580405446814" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1580405446815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580401705293" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1580401440293">
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580405446815" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1580404976898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580401440293" />
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580375674628">
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1580404976898" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1580405380314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580375674628" />
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580405380314" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580404680106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580404680106" />
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1580195192274" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580249554910">
       <screen x="0" y="0" width="1440" height="900" />
